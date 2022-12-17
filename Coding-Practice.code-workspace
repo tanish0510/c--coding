@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "c",
+			"limits": "c",
+			"ratio": "c",
+			"algorithm": "c"
+		}
+	}
+}
