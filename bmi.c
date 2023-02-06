@@ -3,9 +3,9 @@
 int main ()
 {
     float h,w,bmi;
-    printf("enter the height");
+    printf("enter the height(in meters)");
     scanf("%f", &h);
-    printf("enter the weight");
+    printf("enter the weight(in kilograms)");
     scanf("%f", &w);
     bmi=w/pow(h,2);
     if(bmi<15)
